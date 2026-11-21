@@ -1,0 +1,6 @@
+{
+  "name": "SuaraKita Studio",
+  "description": "Studio TTS percakapan bahasa Indonesia fasih dengan gaya bahasa pemuda Gen-Z dan 6 karakter suara lintas generasi serta generator percakapan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
